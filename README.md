@@ -12,8 +12,8 @@
 ## 🎉 Archiving Table
 |**Chapter**|**Link**|
 |:---:|---|
-|📚 **CH 01**|프레임워크에 대한 이야기|
-|📚 **CH 02**|렌더링|
+|📚 **CH 01**|[프레임워크에 대한 이야기](https://github.com/yoo-jimin127/frameworkless-frontend-development/tree/main/CH01)|
+|📚 **CH 02**|[렌더링](https://github.com/yoo-jimin127/frameworkless-frontend-development/tree/main/CH02)|
 |📚 **CH 03**|DOM 이벤트 관리|
 |📚 **CH 04**|웹 구성 요소|
 |📚 **CH 05**|HTTP 요청|
