@@ -22,5 +22,37 @@
 |📚 **CH 08**|적합한 작업을 위한 적합한 도구|
 
 ## 🎯 학습 회고
+<details>
+<summary>💡 <b>CH01. 프레임워크에 대한 이야기</b> </summary>
+</details>
+
+<details>
+<summary>💡 <b>CH02. 렌더링</b> </summary>
+</details>
+
+<details>
+<summary>💡 <b>CH03. DOM 이벤트 관리</b> </summary>
+</details>
+
+<details>
+<summary>💡 <b>CH04. 웹 구성 요소</b> </summary>
+</details>
+
+<details>
+<summary>💡 <b>CH05. HTTP 요청</b> </summary>
+</details>
+
+<details>
+<summary>💡 <b>CH06. 라우팅</b> </summary>
+</details>
+
+<details>
+<summary>💡 <b>CH07. 상태 관리</b> </summary>
+</details>
+
+<details>
+<summary>💡 <b>CH08. 적합한 작업을 위한 적합한 도구</b> </summary>
+</details>
+
 
 **👩🏻‍💻 작성자 : [@yoo-jimin127](https://github.com/yoo-jimin127)**    
